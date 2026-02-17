@@ -1,6 +1,3 @@
-
-dbt Transformation Project
-dbt LT Pipeline – BigQuery to dbt to BigQuery
 # dbt Transformation Layer – BigQuery Data Warehouse
 
 This project contains the transformation layer of an ELT pipeline built using **dbt (Data Build Tool)** on top of **Google BigQuery**.
