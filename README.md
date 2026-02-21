@@ -1,10 +1,10 @@
 # dbt Transformation Layer – BigQuery Data Warehouse
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-bf248b?style=for-the-badge&logo=postgresql&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-Transformation-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Google BigQuery](https://img.shields.io/badge/BigQuery-Data_Warehouse-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/BigQuery-Data_Warehouse-6e24bf?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-24bf66?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-blue?style=for-the-badge&logo=databricks&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerized-bfaf24?style=for-the-badge&logo=docker&logoColor=white)
 
 This project contains the transformation layer of an ELT pipeline built using **dbt (Data Build Tool)** on top of **Google BigQuery**.
 
